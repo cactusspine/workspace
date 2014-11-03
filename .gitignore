@@ -1,3 +1,3 @@
 #use wildcards as well
 *.swp
-./Math/*
+/Math/*
